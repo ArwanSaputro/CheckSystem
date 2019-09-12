@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CheckingSystem.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CPUAlert" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="DiskSpaceAlert" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="PhysicalMemoryAlert" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="VirtualMemoryAlert" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.office365.com|587|donotreply@harigajian.com|donotreply@harigajian.com|j8a42q/gXjVHZN3pUHnb2Mp4M2+vNlaCTm+bfQv5YNs=|TLS</Value>
+    </Setting>
+    <Setting Name="TimeInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="AppId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CheckSystem</Value>
+    </Setting>
+    <Setting Name="LogServices" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Y</Value>
+    </Setting>
+    <Setting Name="TempAppId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Temp</Value>
+    </Setting>
+    <Setting Name="EmailTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bigkodok@gmail.com</Value>
+    </Setting>
+    <Setting Name="SubjectMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">System Notification</Value>
+    </Setting>
+    <Setting Name="AlertAdditional" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="PKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ind0P@yrO11-A5a</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
